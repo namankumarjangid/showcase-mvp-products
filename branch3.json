@@ -1,0 +1,593 @@
+{
+  "branchId": "b3",
+  "products": [
+    {
+      "id": "085",
+      "name": "Romaine Lettuce",
+      "unitPrice": 14.93,
+      "sold": 1091
+    },
+    {
+      "id": "086",
+      "name": "Okra",
+      "unitPrice": 13.47,
+      "sold": 811
+    },
+    {
+      "id": "087",
+      "name": "Mandarin Oranges",
+      "unitPrice": 7.6,
+      "sold": 1151
+    },
+    {
+      "id": "088",
+      "name": "Squash",
+      "unitPrice": 8,
+      "sold": 690
+    },
+    {
+      "id": "089",
+      "name": "Yams",
+      "unitPrice": 7.53,
+      "sold": 703
+    },
+    {
+      "id": "090",
+      "name": "Loquat",
+      "unitPrice": 9.77,
+      "sold": 325
+    },
+    {
+      "id": "091",
+      "name": "Watermelon",
+      "unitPrice": 10.92,
+      "sold": 1067
+    },
+    {
+      "id": "092",
+      "name": "Horned Melon",
+      "unitPrice": 8.69,
+      "sold": 253
+    },
+    {
+      "id": "093",
+      "name": "Peppers",
+      "unitPrice": 7.87,
+      "sold": 829
+    },
+    {
+      "id": "094",
+      "name": "Shallots",
+      "unitPrice": 6.81,
+      "sold": 516
+    },
+    {
+      "id": "095",
+      "name": "Rutabaga",
+      "unitPrice": 8.44,
+      "sold": 734
+    },
+    {
+      "id": "096",
+      "name": "Honeydew Melon",
+      "unitPrice": 7.77,
+      "sold": 506
+    },
+    {
+      "id": "097",
+      "name": "Pumpkin",
+      "unitPrice": 8.66,
+      "sold": 472
+    },
+    {
+      "id": "098",
+      "name": "Hominy",
+      "unitPrice": 7.64,
+      "sold": 204
+    },
+    {
+      "id": "099",
+      "name": "Gooseberries",
+      "unitPrice": 5.38,
+      "sold": 312
+    },
+    {
+      "id": "100",
+      "name": "Cherries",
+      "unitPrice": 6.26,
+      "sold": 323
+    },
+    {
+      "id": "101",
+      "name": "Cucumber",
+      "unitPrice": 12.43,
+      "sold": 631
+    },
+    {
+      "id": "102",
+      "name": "Quince",
+      "unitPrice": 11.23,
+      "sold": 526
+    },
+    {
+      "id": "103",
+      "name": "Fennel",
+      "unitPrice": 11.39,
+      "sold": 571
+    },
+    {
+      "id": "104",
+      "name": "Napa",
+      "unitPrice": 6.94,
+      "sold": 1059
+    },
+    {
+      "id": "105",
+      "name": "Cantaloupe",
+      "unitPrice": 10.89,
+      "sold": 1013
+    },
+    {
+      "id": "106",
+      "name": "Radishes",
+      "unitPrice": 13.38,
+      "sold": 797
+    },
+    {
+      "id": "107",
+      "name": "Beans",
+      "unitPrice": 14.13,
+      "sold": 869
+    },
+    {
+      "id": "108",
+      "name": "Snow Peas",
+      "unitPrice": 7.09,
+      "sold": 376
+    },
+    {
+      "id": "109",
+      "name": "Feijoa",
+      "unitPrice": 5.99,
+      "sold": 761
+    },
+    {
+      "id": "110",
+      "name": "Asian Pear",
+      "unitPrice": 6.09,
+      "sold": 1083
+    },
+    {
+      "id": "111",
+      "name": "Beets",
+      "unitPrice": 14.1,
+      "sold": 704
+    },
+    {
+      "id": "112",
+      "name": "Radicchio",
+      "unitPrice": 11.51,
+      "sold": 770
+    },
+    {
+      "id": "113",
+      "name": "Tomato",
+      "unitPrice": 10.26,
+      "sold": 556
+    },
+    {
+      "id": "114",
+      "name": "Kale",
+      "unitPrice": 7.52,
+      "sold": 566
+    },
+    {
+      "id": "115",
+      "name": "Pineapple",
+      "unitPrice": 11.28,
+      "sold": 1198
+    },
+    {
+      "id": "116",
+      "name": "Grapefruit",
+      "unitPrice": 9.97,
+      "sold": 758
+    },
+    {
+      "id": "117",
+      "name": "Dates",
+      "unitPrice": 13.4,
+      "sold": 662
+    },
+    {
+      "id": "118",
+      "name": "Passion Fruit",
+      "unitPrice": 12.76,
+      "sold": 693
+    },
+    {
+      "id": "119",
+      "name": "Carrots",
+      "unitPrice": 13.84,
+      "sold": 718
+    },
+    {
+      "id": "120",
+      "name": "Bean Sprouts",
+      "unitPrice": 13.28,
+      "sold": 587
+    },
+    {
+      "id": "121",
+      "name": "Turnip",
+      "unitPrice": 8.58,
+      "sold": 1077
+    },
+    {
+      "id": "122",
+      "name": "Garlic",
+      "unitPrice": 10.14,
+      "sold": 276
+    },
+    {
+      "id": "123",
+      "name": "Greens",
+      "unitPrice": 6.55,
+      "sold": 1143
+    },
+    {
+      "id": "124",
+      "name": "String Beans",
+      "unitPrice": 9.37,
+      "sold": 681
+    },
+    {
+      "id": "125",
+      "name": "Nectarines",
+      "unitPrice": 14.36,
+      "sold": 1130
+    },
+    {
+      "id": "126",
+      "name": "Lemons",
+      "unitPrice": 6.53,
+      "sold": 482
+    },
+    {
+      "id": "127",
+      "name": "Potatoes",
+      "unitPrice": 9.21,
+      "sold": 333
+    },
+    {
+      "id": "128",
+      "name": "Sweet Potato",
+      "unitPrice": 12,
+      "sold": 668
+    },
+    {
+      "id": "129",
+      "name": "Bell Peppers",
+      "unitPrice": 12.24,
+      "sold": 810
+    },
+    {
+      "id": "130",
+      "name": "Pummelo",
+      "unitPrice": 12.93,
+      "sold": 1182
+    },
+    {
+      "id": "131",
+      "name": "Coconuts",
+      "unitPrice": 6.61,
+      "sold": 269
+    },
+    {
+      "id": "132",
+      "name": "Waxed Beans",
+      "unitPrice": 5.17,
+      "sold": 657
+    },
+    {
+      "id": "000",
+      "name": "Bok Choy",
+      "unitPrice": 13.63,
+      "sold": 571
+    },
+    {
+      "id": "005",
+      "name": "Eggplant",
+      "unitPrice": 8.1,
+      "sold": 383
+    },
+    {
+      "id": "006",
+      "name": "Watercress",
+      "unitPrice": 8.39,
+      "sold": 977
+    },
+    {
+      "id": "007",
+      "name": "Jicama",
+      "unitPrice": 6.3,
+      "sold": 1008
+    },
+    {
+      "id": "011",
+      "name": "Raspberries",
+      "unitPrice": 7.37,
+      "sold": 219
+    },
+    {
+      "id": "012",
+      "name": "Spinach",
+      "unitPrice": 12.42,
+      "sold": 768
+    },
+    {
+      "id": "013",
+      "name": "Avocado",
+      "unitPrice": 7.5,
+      "sold": 792
+    },
+    {
+      "id": "015",
+      "name": "Corn",
+      "unitPrice": 7.71,
+      "sold": 632
+    },
+    {
+      "id": "016",
+      "name": "Parsnip",
+      "unitPrice": 12.01,
+      "sold": 414
+    },
+    {
+      "id": "017",
+      "name": "Plums",
+      "unitPrice": 11.7,
+      "sold": 762
+    },
+    {
+      "id": "019",
+      "name": "Dried Plums",
+      "unitPrice": 6.1,
+      "sold": 915
+    },
+    {
+      "id": "020",
+      "name": "Bitter Melon",
+      "unitPrice": 11.93,
+      "sold": 349
+    },
+    {
+      "id": "021",
+      "name": "Grapes",
+      "unitPrice": 14.27,
+      "sold": 890
+    },
+    {
+      "id": "022",
+      "name": "Jerusalem Artichoke",
+      "unitPrice": 14.28,
+      "sold": 853
+    },
+    {
+      "id": "023",
+      "name": "Peaches",
+      "unitPrice": 14.19,
+      "sold": 388
+    },
+    {
+      "id": "025",
+      "name": "Kiwifruit",
+      "unitPrice": 11.8,
+      "sold": 1166
+    },
+    {
+      "id": "027",
+      "name": "Apple",
+      "unitPrice": 9.81,
+      "sold": 1093
+    },
+    {
+      "id": "029",
+      "name": "Onion",
+      "unitPrice": 7.16,
+      "sold": 635
+    },
+    {
+      "id": "030",
+      "name": "Collard Greens",
+      "unitPrice": 11.51,
+      "sold": 452
+    },
+    {
+      "id": "031",
+      "name": "Green Onions",
+      "unitPrice": 6.19,
+      "sold": 875
+    },
+    {
+      "id": "032",
+      "name": "Escarole",
+      "unitPrice": 6.07,
+      "sold": 1119
+    },
+    {
+      "id": "034",
+      "name": "Belgian Endive",
+      "unitPrice": 5.68,
+      "sold": 782
+    },
+    {
+      "id": "035",
+      "name": "Blueberries",
+      "unitPrice": 8.45,
+      "sold": 1161
+    },
+    {
+      "id": "037",
+      "name": "Yuca/Cassava",
+      "unitPrice": 14.86,
+      "sold": 815
+    },
+    {
+      "id": "039",
+      "name": "Cactus Pear",
+      "unitPrice": 14.48,
+      "sold": 862
+    },
+    {
+      "id": "041",
+      "name": "Atemoya",
+      "unitPrice": 5.34,
+      "sold": 304
+    },
+    {
+      "id": "047",
+      "name": "Lychee",
+      "unitPrice": 10.22,
+      "sold": 259
+    },
+    {
+      "id": "048",
+      "name": "Apricot",
+      "unitPrice": 13.71,
+      "sold": 640
+    },
+    {
+      "id": "050",
+      "name": "Peas",
+      "unitPrice": 13.6,
+      "sold": 881
+    },
+    {
+      "id": "052",
+      "name": "Tangerines",
+      "unitPrice": 14.38,
+      "sold": 1042
+    },
+    {
+      "id": "053",
+      "name": "Plantains",
+      "unitPrice": 8.99,
+      "sold": 724
+    },
+    {
+      "id": "055",
+      "name": "Zucchini Squash",
+      "unitPrice": 5.92,
+      "sold": 1045
+    },
+    {
+      "id": "056",
+      "name": "Cauliflower",
+      "unitPrice": 7.62,
+      "sold": 717
+    },
+    {
+      "id": "057",
+      "name": "Water Chestnuts",
+      "unitPrice": 5.19,
+      "sold": 579
+    },
+    {
+      "id": "058",
+      "name": "Cranberries",
+      "unitPrice": 11.41,
+      "sold": 421
+    },
+    {
+      "id": "060",
+      "name": "Brussels Sprouts",
+      "unitPrice": 5.56,
+      "sold": 204
+    },
+    {
+      "id": "062",
+      "name": "Broccoli",
+      "unitPrice": 9.46,
+      "sold": 920
+    },
+    {
+      "id": "063",
+      "name": "Strawberries",
+      "unitPrice": 10.22,
+      "sold": 844
+    },
+    {
+      "id": "065",
+      "name": "Yellow Squash",
+      "unitPrice": 10.57,
+      "sold": 1096
+    },
+    {
+      "id": "066",
+      "name": "Cherimoya",
+      "unitPrice": 7.59,
+      "sold": 292
+    },
+    {
+      "id": "067",
+      "name": "Banana",
+      "unitPrice": 10.84,
+      "sold": 496
+    },
+    {
+      "id": "068",
+      "name": "Artichoke",
+      "unitPrice": 7.45,
+      "sold": 224
+    },
+    {
+      "id": "069",
+      "name": "Guava",
+      "unitPrice": 13.85,
+      "sold": 958
+    },
+    {
+      "id": "070",
+      "name": "Asparagus",
+      "unitPrice": 14.59,
+      "sold": 765
+    },
+    {
+      "id": "073",
+      "name": "Broccoflower",
+      "unitPrice": 14.08,
+      "sold": 668
+    },
+    {
+      "id": "075",
+      "name": "Mushrooms",
+      "unitPrice": 6.32,
+      "sold": 677
+    },
+    {
+      "id": "079",
+      "name": "Rhubarb",
+      "unitPrice": 9.1,
+      "sold": 472
+    },
+    {
+      "id": "080",
+      "name": "Cabbage",
+      "unitPrice": 5.7,
+      "sold": 689
+    },
+    {
+      "id": "081",
+      "name": "Longan",
+      "unitPrice": 7.58,
+      "sold": 935
+    },
+    {
+      "id": "083",
+      "name": "Blackberries",
+      "unitPrice": 13.57,
+      "sold": 1102
+    }
+  ]
+}

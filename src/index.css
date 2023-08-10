@@ -1,29 +1,24 @@
-@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600&display=swap');
 
 body {
   margin: 0;
-  font-family: "Manrope", sans-serif;
+  font-family: 'Manrope', sans-serif;
   font-size: larger;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
 
 :root {
   --primary-color: #009879;
 }
 
-.relative {
+.header {
   position: relative;
   width: 100%;
-}
-.flex {
-  display: flex;
-  align-items: center;
 }
 
 .container {
@@ -31,7 +26,7 @@ code {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  max-width: 700px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
@@ -45,7 +40,7 @@ code {
   border-collapse: collapse;
   margin: 25px 0;
   font-size: 0.9em;
-  min-width: 400px;
+  min-width: 100%;
   border-radius: 5px 5px 0 0;
   overflow: hidden;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
@@ -108,10 +103,22 @@ code {
   .container {
     max-width: 100%;
   }
-  .content-table {
-    min-width: 100%;
-  }
   .search-input {
-    width: 80%;
+    width: 70%;
+  }
+  .container h1 {
+    text-align: center;
+  }
+  .header {
+    position: relative;
+    width: fit-content;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .content-table th,
+  .content-table td {
+    padding: 12px 2px;
   }
 }

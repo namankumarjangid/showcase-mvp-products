@@ -112,7 +112,7 @@ const Products = () => {
   return (
     <div className="container">
       <h1>Products</h1>
-      <div className="relative">
+      <div className="header">
         <SearchIcon />
         <input
           type="text"
